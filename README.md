@@ -1,2 +1,2 @@
 # GitDemo
-Demo on Github remo
+Demo on Github repo
